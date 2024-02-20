@@ -1,0 +1,31 @@
+Open a terminal or command prompt, navigate to the directory containing the PalindromeTest1.java file, and compile it using the javac command:
+
+javac PalindromeTest1.java
+
+Run with
+
+
+java PalindromeTest1
+
+
+
+
+Or
+
+Open Eclipse:
+Launch the Eclipse IDE.
+
+Import the Project:
+If the project is not already in Eclipse, you need to import it:
+
+Go to File > Import.
+Choose General > Existing Projects into Workspace.
+Click Next and then Browse to locate the directory containing your Java project.
+Select the project and click Finish.
+Navigate to the Main Class:
+In the Package Explorer or Project Explorer pane on the left side of Eclipse, navigate to the class containing the main method (PalindromeTest1 in your case).
+
+Run the Program:
+Right-click on the Java file (PalindromeTest1.java) and select Run As > Java Application.
+
+Alternatively, you can click on the Run button in the toolbar at the top of Eclipse after selecting the Java file.
